@@ -1,4 +1,4 @@
-# Database-for-Dental-Office
+# Database Desing for Multi Location Dental Clinic
 
 
 **OVERVIEW** 
