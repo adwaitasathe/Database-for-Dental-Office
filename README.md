@@ -31,3 +31,5 @@ The database is created to manage and address the appointments at a multi-locati
   
   ![](images/entity4.PNG)
 
+
+## Installation
