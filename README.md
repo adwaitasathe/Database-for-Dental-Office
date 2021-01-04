@@ -1,7 +1,7 @@
 # Database-for-Dental-Office
 
 
-OVERVIEW    	
+OVERVIEW      	
 The database is created to manage and address the appointments at a multi-location dental clinic. It will cater and support the following:  
 1 - Scheduling appointments for patients  
 2 - Storing information regarding their visit(s)  
