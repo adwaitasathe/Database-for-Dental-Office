@@ -1,7 +1,7 @@
 # Database Desing for Multi Location Dental Clinic
 
 
-**OVERVIEW** 
+##**OVERVIEW** 
      	
 The database is created to manage and address the appointments at a multi-location dental clinic. It will cater and support the following:  
 1 - Scheduling appointments for patients  
@@ -12,12 +12,12 @@ The database is created to manage and address the appointments at a multi-locati
 6 - Storing and managing medical details of the patient  
 7 - Handling equipment and supplies information  
 
-**MAIN FUNCTIONALITIES**
+##**MAIN FUNCTIONALITIES**
 
 ![](images/functionalities.PNG)
 
   
- **ENTITIES** 
+ ##**ENTITIES** 
  
  
   ![](images/entity1.PNG)
