@@ -11,8 +11,6 @@ The database is created to manage and address the appointments at a multi-locati
 5 - Tracking information for the visits of the patients
 6 - Storing and managing medical details of the patient
 7 - Handling equipment and supplies information
-
-
 MAIN FUNCTIONALITIES
 
 
