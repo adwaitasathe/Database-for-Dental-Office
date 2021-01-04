@@ -14,4 +14,7 @@ The database is created to manage and address the appointments at a multi-locati
 
 **MAIN FUNCTIONALITIES**
 
+![](images/functionalities.PNG)
+                                                          
+                                                         
 
