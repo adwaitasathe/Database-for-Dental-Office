@@ -33,3 +33,8 @@ The database is created to manage and address the appointments at a multi-locati
 
 
 ## Installation
+
+1 - Clone the Respoitory  
+2 - Create database with name "Smile_Dental_Clinic" in Microsoft SQL Server
+3 - Run the DDL present in sql/mainddl.sql.SQL and sql/stored_ procs.sql
+4 - Open the Java Project in Java folder and run the code 
